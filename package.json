@@ -1,0 +1,27 @@
+{
+  "name": "tandoori_bot",
+  "version": "1.0.0",
+  "description": "chat-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-vishen/chatbot.git"
+  },
+  "keywords": [
+    "chat-bot"
+  ],
+  "author": "aman vishen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-vishen/chatbot/issues"
+  },
+  "homepage": "https://github.com/aman-vishen/chatbot#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "tmi.js": "^1.5.0"
+  }
+}
