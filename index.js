@@ -8,8 +8,8 @@ app.listen(PORT,function(){
 });
 
 const BLOCKED_WORDS = [
-    'cats', 'randi', 'madharchod', 'bhenchod', 'gand', 'land', 'chut',
-    'dogs',
+    'cats',
+    'dogs'
   ]
 
 
